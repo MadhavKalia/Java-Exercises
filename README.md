@@ -1,2 +1,2 @@
-# JavaScript-Codes
-These are exercises that were done using JavaScript 
+# Java-Codes
+These are exercises that were done using Java
